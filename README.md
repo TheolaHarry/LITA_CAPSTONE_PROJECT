@@ -9,3 +9,14 @@ This project dives into the sales performance of a retail store, exploring trend
 - Microsoft Excel
   1. For Analysis
   2. For Visualisation
+   
+- SQL
+1. For Queries
+
+- Power BI
+1. For Data Cleaning
+2. For Visualisation
+
+   -GITHUB
+   1. For Documentation Of Project
+  

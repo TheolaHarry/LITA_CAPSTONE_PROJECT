@@ -27,3 +27,7 @@ This project dives into the sales performance of a retail store, exploring trend
   3. Filters
 
   ###### Data Sourcing
+  The dataset, titled LITA_Capstone_Dataset, was sourced from the LITA_Incubator LMS on Canvas. Initially, it was saved in an Excel workbook, where it was subsequently converted into a CSV file to facilitate seamless import into SQL. In Power BI, the data was accessed directly from the Excel workbook for further analysis and visualization. This dataset comprises two distinct sheets/tables, providing a structured foundation for in-depth analysis.
+
+  1. SalesData with 50,001 rows and 7 columns
+  2. CustomerData with 75,001 rows and 8 columns

@@ -19,4 +19,11 @@ This project dives into the sales performance of a retail store, exploring trend
 
    -GITHUB
    1. For Documentation Of Project
-  
+
+  ##### Skills/Concept demonstrated
+  The following Power BI features were incoporated by
+  1. DAX Function
+  2. Quick Measures
+  3. Filters
+
+  ###### Data Sourcing

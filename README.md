@@ -4,3 +4,8 @@
 
 ### Project Overview
 This project dives into the sales performance of a retail store, exploring trends across time, regions, and product categories to unlock actionable insights. We’re not just crunching numbers; we’re uncovering the story behind the data—highlighting which products and regions drive success, how sales change month-to-month, and what this means for the store’s future strategies. By answering key questions and surfacing patterns within the data, we aim to empower the store with clear, data-driven decisions and provide a fresh perspective on what fuels growth. This analysis doesn’t just report numbers; it reveals the narrative that shapes the business’s potential.
+
+#### Tools Used
+- Microsoft Excel
+  1. For Analysis
+  2. For Visualisation

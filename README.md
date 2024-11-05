@@ -31,3 +31,35 @@ This project dives into the sales performance of a retail store, exploring trend
 
   1. SalesData with 50,001 rows and 7 columns
   2. CustomerData with 75,001 rows and 8 columns
+ 
+ ####### Data Transformation/Cleaning
+"The data was meticulously cleaned and transformed using Power BI, ensuring both efficiency and precision in the process. [Screenshot of applied steps included] Each column was carefully reviewed, confirming that they were entirely valid, free from empty cells or errors. 
+
+To enrich the dataset, I added three additional columns, all derived from the OrderDate field. 
+
+First, I created a column labeled 'Order Months,' containing the month extracted in date format. Next, I isolated the year from the OrderDate column to generate an 'Order Year' column. Finally, I developed a 'Quarter' column, also formatted as a date, to capture the quarter of each order. These steps significantly enhanced the dataset’s analytical depth."
+
+######## Exploratory Data Analysis
+ EDA involved the exploring of the data to answer some questions about the data such as;
+ 1. Top Selling Product
+ 2. Regional Performance
+ 3. Monthly Sales Trends
+
+ ######### Project Objective
+ This Project was designed to address the following analysis goal:
+ 1. Sales Transaction in Each Region
+ 2. Highest Selling Product By Total Sales Values
+ 3. Total Revenue Per Product
+ 4. Monthly sales Total For The Current Year
+ 5. Top Five Customers by Total Purchase Amount
+ 6. Percentage Of Total Sales Contributed By Each Region
+ 7. Product With No Sales in Last Quarter
+
+ ######### Problem Statement
+ 1. Which of our Products makes the greatest profit and which product runs the store into loss
+ 2. What is the total sales made yearly since 2023? Has sales been on the increase since over the years?
+ 3.    Which Region Has the Highest sales and Which Region has the lowest sales.
+
+ ########## Data Analysis
+ 
+    

@@ -61,5 +61,10 @@ First, I created a column labeled 'Order Months,' containing the month extracted
  3.    Which Region Has the Highest sales and Which Region has the lowest sales.
 
  ### Data Analysis
+ This is were we included some basic lines of code or queries or even some of the DAX expressions used during analysis.
+
+ ### Data Visualisation
+
+ ### Conclusion & Recommendation
  
     
